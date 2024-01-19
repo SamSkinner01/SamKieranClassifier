@@ -14,6 +14,7 @@ Idea: Take image --> Sam, Kieran, Neither
 
 2. Data cleaning / preprocessing / labeling
 	- 256x256x3 size
+	- Maybe lets do some data augmentation
 	- Tools for this: Numpy + Pandas + Torchvision
 
 3. Model (layers)
