@@ -8,6 +8,7 @@ Idea: Take image --> Sam, Kieran, Neither
 	- If both of us are in the picture label both (when it comes to it)	
 	- Let's start with 50 images each (80-20 split for train/test)
 		- 80 images train - 20 images for test
+		- 50 images each -- 40 of which are training and 10 of which are testing
 	- We don't care about image size (re-evaluate later)
 		
 
