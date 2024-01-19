@@ -1,0 +1,24 @@
+Idea: Take image --> Sam, Kieran, Neither 
+	Extra: Boxes where we are
+
+
+1. Data Collection
+	- Pictures of ourselves (doesn't have to be selfie or just us) 
+	- Include just you and with others.
+	- If both of us are in the picture label both (when it comes to it)	
+	- Let's start with 50 images each (80-20 split for train/test)
+		- 80 images train - 20 images for test
+	- We don't care about image size (re-evaluate later)
+		
+
+2. Data cleaning / preprocessing / labeling
+	- 256x256x3 size
+	- Tools for this: Numpy + Pandas + Torchvision
+
+3. Model (layers)
+	- Convolutions (Resnet)
+	- Look more at layers/models/stuff
+	- Tools for this: PyTorch
+
+4. Testing
+	- just test on test data
